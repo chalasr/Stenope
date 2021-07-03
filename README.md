@@ -12,7 +12,7 @@ We needed a way of generating static websites that:
 
 - Doesn't impose a format, a structure or a location for the data.
 - Runs in a [Symfony](symfony.com) environment.
-- Allow us to develop virtually any feature we might need.
+- Allows us to develop virtually any feature we might need.
 
 Stenope does that.
 
